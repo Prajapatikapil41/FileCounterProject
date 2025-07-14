@@ -3,23 +3,6 @@ A simple console application that reads a text file, counts lines and words, and
 
 Codveda Internship Project – Level 2 Task 2
 
-
-
-```
-FileCounterProject/
-├─ src/
-│   └─ FileWordLineCounter.java
-├─ data/
-│   ├─ input.txt        ← your sample text here
-│   └─ output.txt       ← will be created by the program
-├─ .vscode/
-│   ├─ tasks.json       ← VS Code build task (javac)
-│   └─ launch.json      ← VS Code debug/run configuration
-└─ README.md           ← project overview & instructions
-```
-
-
-
 ## 🔧 Features / Objectives
 
 - I can read a text file and count:
